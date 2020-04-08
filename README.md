@@ -1,9 +1,9 @@
-├── lib
-│   ├── 00_hello.rb
-│   ├── 01_pyramids.rb
-│   ├── 02_password.rb
-│   └── Can't be find.
-└── README.md
+├── lib                                                                                                                                   
+│   ├── 00_hello.rb                                                                                                                       
+│   ├── 01_pyramids.rb                                                                                                                     
+│   ├── 02_password.rb                                                                                                                     
+│   └── Can't be find.                                                                                                                     
+└── README.md                                                                                                                             
 
 00_hello.rb: Programme pour saluer l'utilisateur.
 01_pyramids.rb: Programme générant un type de pyramide selon le choix de l'utilisateur.
